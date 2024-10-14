@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @doubi3
-- 👀 I like python
+- 👋 Hi, I’m Mark
+- 👀 I love python
 
 
 <!---
